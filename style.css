@@ -1,0 +1,15 @@
+.wrap {
+  padding: 20px 50px;
+}
+
+#title-input,
+#body-input {
+  height: 40px;
+  border: none;
+}
+#add-post-button {
+  width: 150px;
+  height: 40px;
+  background-color: rgb(96, 201, 82);
+  border: none;
+}
